@@ -1,0 +1,12 @@
+# macOS / editor metadata
+.DS_Store
+.idea/
+.vscode/
+
+# Temporary extraction files
+*.part
+*.tmp
+
+# Local auth/config files
+.env
+.env.*
