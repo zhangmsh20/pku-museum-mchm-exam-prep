@@ -10,3 +10,6 @@
 # Local auth/config files
 .env
 .env.*
+
+# Codex intermediate workspace
+work/
